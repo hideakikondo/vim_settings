@@ -1,18 +1,3 @@
-Skip to content
- 
-Search…
-All gists
-Back to GitHub
-@hideakikondo 
-@kickbase kickbase/.vimrc
-Last active 3 years ago • Report abuse
-0
-0
- Code Revisions 2
-<script src="https://gist.github.com/kickbase/33ef09a15e86603ad8c59b855f326ce5.js"></script>
-  
-[Vim] my .vimrc file
- .vimrc
 "------- Preferences --------"
 set ttyfast
 set t_Co=256
@@ -335,20 +320,3 @@ vmap <C-v> <Plug>(expand_region_shrink)
 let g:netrw_nogx = 1 " disable netrw's gx mapping.
 nmap gx <Plug>(openbrowser-smart-search)
 vmap gx <Plug>(openbrowser-smart-search)
-@hideakikondo
- 
-Leave a comment
-
-Attach files by dragging & dropping, selecting or pasting them.
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
